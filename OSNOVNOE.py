@@ -1,12 +1,3 @@
-"""
-Lab №8(Strings and text processing)
-
-Authors: Dubodelov A.V , Lebed A.S.
-Version: 1.0
-Group: 10701118
-Date: 19.11.2018
-"""
-
 import Chek as ch
 import random
 
